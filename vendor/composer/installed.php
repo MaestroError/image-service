@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '5779b75b0c5ade382c21d87945aed3930f930cc7',
+        'reference' => 'bb4564ba2640dd3ac27966819bd2b89e2bdac9b7',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '5779b75b0c5ade382c21d87945aed3930f930cc7',
+            'reference' => 'bb4564ba2640dd3ac27966819bd2b89e2bdac9b7',
             'dev_requirement' => false,
         ),
         'maestroerror/data-remastery' => array(
@@ -29,12 +29,12 @@
             'dev_requirement' => false,
         ),
         'maestroerror/file-manager' => array(
-            'pretty_version' => '0.3.1',
-            'version' => '0.3.1.0',
+            'pretty_version' => '0.3.2',
+            'version' => '0.3.2.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../maestroerror/file-manager',
             'aliases' => array(),
-            'reference' => '8b8c7ab2690a4e795c25df8e75446e8825bc0f06',
+            'reference' => '256ca0864bfb92e349b0f75e77e3bb1d50a87de9',
             'dev_requirement' => false,
         ),
         'maestroerror/imageme' => array(

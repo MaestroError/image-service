@@ -45,23 +45,23 @@
         },
         {
             "name": "maestroerror/file-manager",
-            "version": "0.3.1",
-            "version_normalized": "0.3.1.0",
+            "version": "0.3.2",
+            "version_normalized": "0.3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MaestroError/fileManager.git",
-                "reference": "8b8c7ab2690a4e795c25df8e75446e8825bc0f06"
+                "reference": "256ca0864bfb92e349b0f75e77e3bb1d50a87de9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MaestroError/fileManager/zipball/8b8c7ab2690a4e795c25df8e75446e8825bc0f06",
-                "reference": "8b8c7ab2690a4e795c25df8e75446e8825bc0f06",
+                "url": "https://api.github.com/repos/MaestroError/fileManager/zipball/256ca0864bfb92e349b0f75e77e3bb1d50a87de9",
+                "reference": "256ca0864bfb92e349b0f75e77e3bb1d50a87de9",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.4"
             },
-            "time": "2021-11-18T12:52:38+00:00",
+            "time": "2021-11-18T13:11:15+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -82,7 +82,7 @@
             "description": "Easy to use, chainable PHP fileManager class with all main features",
             "support": {
                 "issues": "https://github.com/MaestroError/fileManager/issues",
-                "source": "https://github.com/MaestroError/fileManager/tree/0.3.1"
+                "source": "https://github.com/MaestroError/fileManager/tree/0.3.2"
             },
             "install-path": "../maestroerror/file-manager"
         },
