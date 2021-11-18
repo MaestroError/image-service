@@ -1,0 +1,70 @@
+[05-Oct-2021 08:13:45 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Method GET not allowed on this route in C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\rghambarashvili\Desktop\imgProc\end.php(4): maestroerror\Router->run()
+#3 C:\Users\rghambarashvili\Desktop\imgProc\index.php(9): require('C:\\Users\\rghamb...')
+#4 {main}
+  thrown in C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php on line 477
+[05-Oct-2021 08:15:55 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Method GET not allowed on this route in C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\rghambarashvili\Desktop\imgProc\end.php(4): maestroerror\Router->run()
+#3 C:\Users\rghambarashvili\Desktop\imgProc\index.php(9): require('C:\\Users\\rghamb...')
+#4 {main}
+  thrown in C:\Users\rghambarashvili\Desktop\imgProc\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 08:44:37 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\imageService\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\imageService\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 08:50:25 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:26 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:26 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:27 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:29 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:40 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:41 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:42 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:43 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:43 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:44 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:45 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:45 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:46 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:46 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:47 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:47 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:48 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:48 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:50:49 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\show.php on line 24
+[18-Nov-2021 08:51:07 Europe/Berlin] PHP Warning:  Undefined array key "uri" in C:\Users\mtsikhitatrishvili\Desktop\imageService\controllers\files.php on line 10
+[18-Nov-2021 08:53:44 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[18-Nov-2021 09:55:14 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\imageService\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\imageService\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 11:40:58 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\imageService\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\imageService\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 11:40:59 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\imageService\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\imageService\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php on line 477

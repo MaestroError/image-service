@@ -1,0 +1,15 @@
+{
+    "require": {
+        "maestroerror/traits": "^1.2",
+        "maestroerror/imageme": "^0.3.0",
+        "maestroerror/data-remastery": "^0.1.0",
+        "maestroerror/router": "^0.3.0",
+        "maestroerror/file-manager": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/",
+            "controller\\": "controllers/"
+        }
+    }
+}

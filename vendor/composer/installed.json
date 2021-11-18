@@ -1,0 +1,228 @@
+{
+    "packages": [
+        {
+            "name": "maestroerror/data-remastery",
+            "version": "0.1",
+            "version_normalized": "0.1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MaestroError/dataRemastery.git",
+                "reference": "e2c2608aa651930a0fc600ac030921326967b443"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MaestroError/dataRemastery/zipball/e2c2608aa651930a0fc600ac030921326967b443",
+                "reference": "e2c2608aa651930a0fc600ac030921326967b443",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "time": "2021-09-29T11:28:18+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "maestroerror\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "maestroerror",
+                    "email": "revaz.gh@gmail.com"
+                }
+            ],
+            "description": "Data Arrangement Modification Class",
+            "support": {
+                "issues": "https://github.com/MaestroError/dataRemastery/issues",
+                "source": "https://github.com/MaestroError/dataRemastery/tree/0.1"
+            },
+            "install-path": "../maestroerror/data-remastery"
+        },
+        {
+            "name": "maestroerror/file-manager",
+            "version": "0.3",
+            "version_normalized": "0.3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MaestroError/fileManager.git",
+                "reference": "cf0df4a97757724d61a970a65b45d5bbd5b81892"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MaestroError/fileManager/zipball/cf0df4a97757724d61a970a65b45d5bbd5b81892",
+                "reference": "cf0df4a97757724d61a970a65b45d5bbd5b81892",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "time": "2021-10-04T13:08:53+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "maestroerror\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "maestroerror",
+                    "email": "revaz.gh@gmail.com"
+                }
+            ],
+            "description": "Easy to use, chainable PHP fileManager class with all main features",
+            "support": {
+                "issues": "https://github.com/MaestroError/fileManager/issues",
+                "source": "https://github.com/MaestroError/fileManager/tree/0.3"
+            },
+            "install-path": "../maestroerror/file-manager"
+        },
+        {
+            "name": "maestroerror/imageme",
+            "version": "0.3",
+            "version_normalized": "0.3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MaestroError/ImageMe.git",
+                "reference": "ef37ccfcdcebfdfd366d5405963f231a067cae89"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MaestroError/ImageMe/zipball/ef37ccfcdcebfdfd366d5405963f231a067cae89",
+                "reference": "ef37ccfcdcebfdfd366d5405963f231a067cae89",
+                "shasum": ""
+            },
+            "require": {
+                "maestroerror/traits": "^1.1",
+                "php": ">=7.4"
+            },
+            "require-dev": {
+                "php": ">=7.4"
+            },
+            "time": "2021-10-01T12:43:39+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "maestroerror\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "maestroerror",
+                    "email": "revaz.gh@gmail.com"
+                }
+            ],
+            "description": "Image upload & management class, created specially for performance and security - easy to use, chainable, supports JPEG & WebP file extensions",
+            "support": {
+                "issues": "https://github.com/MaestroError/ImageMe/issues",
+                "source": "https://github.com/MaestroError/ImageMe/tree/0.3"
+            },
+            "install-path": "../maestroerror/imageme"
+        },
+        {
+            "name": "maestroerror/router",
+            "version": "0.3",
+            "version_normalized": "0.3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MaestroError/Router.git",
+                "reference": "fb3d66c590fc3a3261a3e265544d5655ae7181a4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MaestroError/Router/zipball/fb3d66c590fc3a3261a3e265544d5655ae7181a4",
+                "reference": "fb3d66c590fc3a3261a3e265544d5655ae7181a4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "time": "2021-10-01T12:41:21+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "maestroerror\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "maestroerror",
+                    "email": "revaz.gh@gmail.com"
+                }
+            ],
+            "description": "Easy to use, lightweigt PHP router based on reverse segmentation",
+            "support": {
+                "issues": "https://github.com/MaestroError/Router/issues",
+                "source": "https://github.com/MaestroError/Router/tree/0.3"
+            },
+            "install-path": "../maestroerror/router"
+        },
+        {
+            "name": "maestroerror/traits",
+            "version": "1.2",
+            "version_normalized": "1.2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MaestroError/Traits.git",
+                "reference": "f26f22bf5c3dee84bbc6f2b6e3b9a3e677b368e3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MaestroError/Traits/zipball/f26f22bf5c3dee84bbc6f2b6e3b9a3e677b368e3",
+                "reference": "f26f22bf5c3dee84bbc6f2b6e3b9a3e677b368e3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "require-dev": {
+                "php": ">=7.4"
+            },
+            "time": "2021-10-01T12:42:26+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "maestroerror\\traits\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "maestroerror",
+                    "email": "revaz.gh@gmail.com"
+                }
+            ],
+            "description": "Traits with some Usefull methods",
+            "support": {
+                "issues": "https://github.com/MaestroError/Traits/issues",
+                "source": "https://github.com/MaestroError/Traits/tree/1.2"
+            },
+            "install-path": "../maestroerror/traits"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "maestroerror/imageme",
+    "description": "Image upload & management class, created specially for performance and security - easy to use, chainable, supports JPEG & WebP file extensions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maestroerror",
+            "email": "revaz.gh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4",
+        "maestroerror/traits": "^1.1"
+    },
+    "require-dev": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "maestroerror\\": "src/"
+        }
+    }
+}

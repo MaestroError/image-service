@@ -1,0 +1,24 @@
+{
+    "name": "maestroerror/traits",
+    "description": "Traits with some Usefull methods",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "maestroerror\\traits\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "maestroerror",
+            "email": "revaz.gh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
