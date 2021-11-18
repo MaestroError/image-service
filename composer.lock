@@ -48,16 +48,16 @@
         },
         {
             "name": "maestroerror/file-manager",
-            "version": "0.3",
+            "version": "0.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MaestroError/fileManager.git",
-                "reference": "cf0df4a97757724d61a970a65b45d5bbd5b81892"
+                "reference": "8b8c7ab2690a4e795c25df8e75446e8825bc0f06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MaestroError/fileManager/zipball/cf0df4a97757724d61a970a65b45d5bbd5b81892",
-                "reference": "cf0df4a97757724d61a970a65b45d5bbd5b81892",
+                "url": "https://api.github.com/repos/MaestroError/fileManager/zipball/8b8c7ab2690a4e795c25df8e75446e8825bc0f06",
+                "reference": "8b8c7ab2690a4e795c25df8e75446e8825bc0f06",
                 "shasum": ""
             },
             "require": {
@@ -82,9 +82,9 @@
             "description": "Easy to use, chainable PHP fileManager class with all main features",
             "support": {
                 "issues": "https://github.com/MaestroError/fileManager/issues",
-                "source": "https://github.com/MaestroError/fileManager/tree/0.3"
+                "source": "https://github.com/MaestroError/fileManager/tree/0.3.1"
             },
-            "time": "2021-10-04T13:08:53+00:00"
+            "time": "2021-11-18T12:52:38+00:00"
         },
         {
             "name": "maestroerror/imageme",

@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-maestro',
+        'version' => 'dev-maestro',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '5779b75b0c5ade382c21d87945aed3930f930cc7',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-maestro',
+            'version' => 'dev-maestro',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '5779b75b0c5ade382c21d87945aed3930f930cc7',
             'dev_requirement' => false,
         ),
         'maestroerror/data-remastery' => array(
@@ -29,12 +29,12 @@
             'dev_requirement' => false,
         ),
         'maestroerror/file-manager' => array(
-            'pretty_version' => '0.3',
-            'version' => '0.3.0.0',
+            'pretty_version' => '0.3.1',
+            'version' => '0.3.1.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../maestroerror/file-manager',
             'aliases' => array(),
-            'reference' => 'cf0df4a97757724d61a970a65b45d5bbd5b81892',
+            'reference' => '8b8c7ab2690a4e795c25df8e75446e8825bc0f06',
             'dev_requirement' => false,
         ),
         'maestroerror/imageme' => array(
