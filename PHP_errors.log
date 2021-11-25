@@ -68,3 +68,448 @@ Stack trace:
 #3 C:\Users\mtsikhitatrishvili\Desktop\imageService\index.php(9): require('C:\\Users\\mtsikh...')
 #4 {main}
   thrown in C:\Users\mtsikhitatrishvili\Desktop\imageService\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 12:36:40 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 12:36:41 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 12:36:42 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 12:36:42 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 12:36:43 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 14:08:45 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 15:25:17 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[18-Nov-2021 15:34:17 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:49:49 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:50:47 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:50:52 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No match found for URI /test/ted/testDirectory/logo.png-{S5Jqxx5}-webp-110.webp in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:50:52 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:54:54 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No match found for URI /test/ted/testDirectory/logo.png-{S5Jqxx5}-webp-110.webp in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:56:23 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No match found for URI /test/ted/testDirectory/logo.png-{S5Jqxx5}-webp-110.webp in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:56:24 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:59:34 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No match found for URI /test/ted/testDirectory/logo.png-{S5Jqxx5}-webp-110.webp in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 11:59:34 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[19-Nov-2021 13:31:40 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php on line 24
+[19-Nov-2021 13:31:59 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[19-Nov-2021 13:31:59 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 8\928\test.txt not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:78
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(71): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(54): app\cacheById->__construct('test.txt')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('test.txt')
+#4 [internal function]: controller\show->show('test.txt', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 78
+[19-Nov-2021 13:32:02 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[19-Nov-2021 13:32:02 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 8\928\test.txt not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:78
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(71): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(54): app\cacheById->__construct('test.txt')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('test.txt')
+#4 [internal function]: controller\show->show('test.txt', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 78
+[22-Nov-2021 08:01:51 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[22-Nov-2021 08:01:51 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 8\928\test.txt not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:78
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(71): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(54): app\cacheById->__construct('test.txt')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('test.txt')
+#4 [internal function]: controller\show->show('test.txt', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 78
+[22-Nov-2021 08:07:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[22-Nov-2021 08:07:14 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 8\928\test.txt not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:78
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(71): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(54): app\cacheById->__construct('test.txt')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('test.txt')
+#4 [internal function]: controller\show->show('test.txt', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 78
+[22-Nov-2021 08:10:42 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[22-Nov-2021 08:10:42 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 8\928\ted.json not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:78
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(71): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(54): app\cacheById->__construct('ted.json')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('ted.json')
+#4 [internal function]: controller\show->show('ted.json', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 78
+[22-Nov-2021 08:10:48 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[22-Nov-2021 08:10:48 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 8\928\ted.json not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:78
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(71): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(54): app\cacheById->__construct('ted.json')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('ted.json')
+#4 [internal function]: controller\show->show('ted.json', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 78
+[22-Nov-2021 08:29:07 Europe/Berlin] PHP Warning:  Undefined array key "mimeInfo" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php on line 24
+[22-Nov-2021 14:22:29 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 32
+[22-Nov-2021 14:22:29 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 32
+[22-Nov-2021 14:22:29 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 42
+[22-Nov-2021 14:26:57 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 34
+[22-Nov-2021 14:26:57 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 34
+[22-Nov-2021 14:26:57 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 44
+[22-Nov-2021 14:26:59 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 34
+[22-Nov-2021 14:26:59 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 34
+[22-Nov-2021 14:26:59 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 44
+[22-Nov-2021 15:05:43 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[22-Nov-2021 15:05:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[22-Nov-2021 15:05:43 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 47
+[24-Nov-2021 10:03:40 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:03:40 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:03:40 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 47
+[24-Nov-2021 10:03:43 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:03:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:03:43 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 47
+[24-Nov-2021 10:03:51 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:03:51 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:03:51 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 47
+[24-Nov-2021 10:07:24 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:07:24 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 37
+[24-Nov-2021 10:07:24 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 47
+[24-Nov-2021 11:58:42 Europe/Berlin] PHP Warning:  Undefined array key "uri" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\files.php on line 36
+[24-Nov-2021 11:58:56 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:12 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:12 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:12 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:13 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:13 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:13 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:13 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:13 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:14 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:15 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:19 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:19 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:19 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:19 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:21 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:21 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:21 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:24 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:54 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:54 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:54 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 11:59:57 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:48 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:48 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:48 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:48 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:48 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:00:49 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:01:55 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:03:44 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:03:47 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:04:39 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:04:42 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:07:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:40 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:44 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[24-Nov-2021 12:08:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:52 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:52 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:52 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:52 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:08:52 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{xYpSs0Sc3u8P}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{EBdbqwFQ65S}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{Z5gatYQ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{9lVcMVL}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{0mW03wyGZ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{fSnG4bqt43if}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{7HHinzm}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{UeX5AIzWJq}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO eng.png-{NznjwGm4ZZC}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{LgEi4a3SlSXG}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{fSnG4bqt43if}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{xYpSs0Sc3u8P}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{Z5gatYQ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{LgEi4a3SlSXG}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{9lVcMVL}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{EBdbqwFQ65S}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{0mW03wyGZ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO eng.png-{NznjwGm4ZZC}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{7HHinzm}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{UeX5AIzWJq}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:19 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO eng.png-{RsKeNmCuZBcD}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:19 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO geo.png-{4ksJ5TQbjE}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:19 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO eng.png-{cz9aaxACF}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:21 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:21 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:21 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:21 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:21 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:33 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:33 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:33 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:33 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:33 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:49 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:09:49 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[24-Nov-2021 12:10:21 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:22 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[24-Nov-2021 12:10:44 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:44 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[24-Nov-2021 12:10:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:48 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:54 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:54 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:54 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:54 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:10:54 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:01 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO geo.png-{4ksJ5TQbjE}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO eng.png-{cz9aaxACF}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:03 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO eng.png-{RsKeNmCuZBcD}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:05 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:05 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:05 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:05 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:05 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{ExYk8kXru9ze}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\feature1.png-{sjM0ruNYK62}-webp-36.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{9N5En2B8p1q}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\slider.png-{rdDdPRnZ}-webp-848.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\product1.png-{8Hr7DuFBXu}-webp-405.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO geo.png-{4ksJ5TQbjE}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO eng.png-{cz9aaxACF}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:07 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\INFO eng.png-{RsKeNmCuZBcD}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{xYpSs0Sc3u8P}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{Z5gatYQ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{EBdbqwFQ65S}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{fSnG4bqt43if}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{LgEi4a3SlSXG}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{UeX5AIzWJq}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{7HHinzm}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{9lVcMVL}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{0mW03wyGZ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:11:08 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO eng.png-{NznjwGm4ZZC}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{xYpSs0Sc3u8P}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{Z5gatYQ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{LgEi4a3SlSXG}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{9lVcMVL}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{EBdbqwFQ65S}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{fSnG4bqt43if}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{0mW03wyGZ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{7HHinzm}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{UeX5AIzWJq}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:12:02 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO eng.png-{NznjwGm4ZZC}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{xYpSs0Sc3u8P}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{Z5gatYQ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{LgEi4a3SlSXG}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{EBdbqwFQ65S}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{fSnG4bqt43if}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{9lVcMVL}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO eng.png-{NznjwGm4ZZC}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{UeX5AIzWJq}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO geo.png-{7HHinzm}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:16:46 Europe/Berlin] PHP Warning:  readfile(C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\test\ted\testDirectory\INFO rus.png-{0mW03wyGZ}-webp-379.webp): Failed to open stream: No such file or directory in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\traits\src\filesProcessing.php on line 197
+[24-Nov-2021 12:17:55 Europe/Berlin] PHP Warning:  Undefined array key "uri" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\files.php on line 36
+[24-Nov-2021 12:17:55 Europe/Berlin] PHP Warning:  Undefined array key "INFO geo" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:17:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:17:55 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\test): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:18:24 Europe/Berlin] PHP Warning:  Undefined array key "uri" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\files.php on line 36
+[24-Nov-2021 12:18:24 Europe/Berlin] PHP Warning:  Undefined array key "INFO geo" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:18:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:18:24 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\test): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:19:26 Europe/Berlin] PHP Warning:  Undefined array key "INFO geo" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:19:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:19:26 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\test1\ted\testDirectory\test): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:20:10 Europe/Berlin] PHP Warning:  Undefined array key ""INFO geo"" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:20:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:20:10 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\test1\ted\testDirectory\test): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:20:23 Europe/Berlin] PHP Warning:  Undefined array key "logo" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:20:23 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[24-Nov-2021 12:20:23 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\test1\ted\testDirectory\test): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136

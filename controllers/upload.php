@@ -29,6 +29,11 @@ class upload {
             "scale" => ""
         ];
         */
+        // $cors = \CORS;
+        // header("Access-Control-Allow-Origin: $cors");
+        // header('Content-Type: application/json; charset=utf-8');
+        // echo json_encode($_FILES);
+        // exit;
         foreach ($request->files['image'] as $image) {
             $img = new imageMe([$image], false);
             $max_size = $img->getByteSizeFromStr(\MAX_SIZE);

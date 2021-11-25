@@ -40,15 +40,7 @@ class show {
 
     }
 
-    public function test() {
-        // test
-        echo $id . "-" . $format . "-" . $width;
-        echo "<br>";
-        echo rand(7, 12);
-        echo "<br>";
-        echo ord("a");
-    }
-
+ 
     // find existing cache info file
     private function findJson($id) {
         return new cacheById($id);
