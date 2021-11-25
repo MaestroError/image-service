@@ -48,10 +48,15 @@ class cacheById {
       $uri = self::$inst->resolveID();
       $file = self::$inst->id.".json";
       $state = new fileManager("", self::$inst->cacheFromRoot);
+      $fullPath = \ORIGINAL . DIRECTORY_SEPARATOR . time() . "-" . "{".self::$inst->id."}" . ".webp";
+      // save original image
+      file_put_contents($fullPath, file_get_contents($image->fullPath));
+
       $data = [
           "origin" => [
             "fileSize"=> $image->fileSize,
-            "fullPath"=> $image->fullPath,
+            "fullPath"=> $fullPath,
+            "startPosition"=> $image->fullPath,
             "mimeInfo"=> $image->mimeInfo,
             "width"=> $image->width
           ]
