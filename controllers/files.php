@@ -25,8 +25,9 @@ class files {
         $this->json(200, $this->unsets($files::ls()));
     }
     public function add($request, $name) {
-        $uri = $request->post['uri'];
-        $files = $this->openLocation($uri);
+        // $uri = $request->post['uri'];
+        // $files = $this->openLocation($uri);
+        $files = $this->openLocation("/");
         $files->add($name);
         
 

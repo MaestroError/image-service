@@ -8,7 +8,14 @@ use maestroerror\imageMe;
 class upload {
     public function upload($request) {
 
-        $uri = $request->query['uri'];
+        $uri = "/";
+        $newName = false;
+        if(isset($request->query['uri'])) {
+            $uri = $request->query['uri'];
+        }
+        if(isset($request->query['new_name'])) {
+            $newName = $request->query['new_name'];
+        }
         
         $options = [
             "max_size" => \MAX_SIZE,
@@ -35,6 +42,11 @@ class upload {
         // echo json_encode($_FILES);
         // exit;
         foreach ($request->files['image'] as $image) {
+            if($newName) {
+                $exploded = explode(".", $image['name']);
+                $image['name'] = $newName.".".$exploded[count($exploded)-1];
+            }
+            // print_r($image); exit;
             $img = new imageMe([$image], false);
             $max_size = $img->getByteSizeFromStr(\MAX_SIZE);
             if($max_size < $img->fileSize) {
