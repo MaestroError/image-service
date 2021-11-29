@@ -8,3 +8,5 @@ use controller\show;
 
 // start routing
 $router = new Router();
+
+header("Access-Control-Allow-Headers: Content-Type");
