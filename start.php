@@ -9,4 +9,5 @@ use controller\show;
 // start routing
 $router = new Router();
 
+// accept content-type from axios json request
 header("Access-Control-Allow-Headers: Content-Type");

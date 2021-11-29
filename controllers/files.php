@@ -29,6 +29,7 @@ class files {
         $this->json(200, $this->unsets($files::ls()));
     }
     public function add($request, $name) {
+        // when Content-Type is application/json
         $data = json_decode(file_get_contents('php://input'), true);
         if(isset($data['uri'])) {
             $uri = $data['uri'];
