@@ -297,3 +297,220 @@ Stack trace:
 [09-Dec-2021 08:07:36 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php:197) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 196
 [09-Dec-2021 08:07:36 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php:197) in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\files.php on line 88
 [09-Dec-2021 08:07:36 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php:197) in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\files.php on line 89
+[09-Dec-2021 08:16:07 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:07 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:35 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:35 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:44 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:44 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:44 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:16:44 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:17:21 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:17:21 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:17:21 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:17:21 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:18:29 Europe/Berlin] PHP Warning:  Undefined array key "blabla.png-{Ok8PEUATt3Z}-webp-405.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:18:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:18:29 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\blablablapng-{Ok8PEUATt3Z}-webp-405): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:18:29 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:20:35 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:20:39 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:20:39 Europe/Berlin] PHP Warning:  Undefined array key "extension" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 194
+[09-Dec-2021 08:21:03 Europe/Berlin] PHP Warning:  Undefined array key "argentina-bomber2.jpg-{7L8gOX1BO}-webp-1500.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:21:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:21:03 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\auehaa.jpg-{7L8gOX1BO}-webp-1500.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:22:03 Europe/Berlin] PHP Warning:  Undefined array key "argentina-bomber2.jpg-{OE2eLZbBExa}-webp-1500.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:22:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:22:03 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\rename222222.jpg-{OE2eLZbBExa}-webp-1500.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:22:14 Europe/Berlin] PHP Warning:  Undefined array key "argentina-bomber3.jpg-{0lPHuPZuwuWT}-webp-1500.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:22:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:22:14 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\aaaaaaaa.jpg-{0lPHuPZuwuWT}-webp-1500.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:52:46 Europe/Berlin] PHP Warning:  Undefined array key "argentina-hoodie2.jpg-{W4wFm5W}-webp-1500.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:52:46 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 08:52:46 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\argentina-hoodie2.jpg-{W4wFm5W}-webp-1500.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 09:16:04 Europe/Berlin] PHP Warning:  Undefined array key "asd" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 09:16:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 09:16:04 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\mariami[object Object]): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 09:16:31 Europe/Berlin] PHP Warning:  Undefined array key "asd" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 09:16:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[09-Dec-2021 09:16:31 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\marmi): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:01:29 Europe/Berlin] PHP Warning:  Undefined array key "marmi" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:01:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:01:29 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\marmiwq): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:26:19 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 44
+[13-Dec-2021 13:26:19 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 44
+[13-Dec-2021 13:26:19 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\upload.php on line 59
+[13-Dec-2021 13:26:24 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 13:26:24 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 10\1100\nklwcIqyoB not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('nklwcIqyoB')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('nklwcIqyoB')
+#4 [internal function]: controller\show->show('nklwcIqyoB', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 13:46:44 Europe/Berlin] PHP Warning:  Undefined array key "Final2.00_00_04_13.Still001.png-{nklwcIqyoB}-webp-1080.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:46:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:46:44 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\Final2.00_00_04_13.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 13:46:44 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 13:46:44 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 13:46:51 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 13:46:51 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 13:46:59 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 13:46:59 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:32:51 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:32:51 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:44:56 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:44:56 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:45:49 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:45:49 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:46:06 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:46:06 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:46:09 Europe/Berlin] PHP Warning:  Undefined array key "logo_white.png-{R2EtnxFrrf}-webp-921.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:09 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\logo_white,.png-{R2EtnxFrrf}-webp-921.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:46 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:46:46 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 23\1610\Final2.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2.00_00_04...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2.00_00_04...')
+#4 [internal function]: controller\show->show('Final2.00_00_04...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:46:52 Europe/Berlin] PHP Warning:  Undefined array key "Final2.00_00_04_13.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:52 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\Final2h.00_00_04_13.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:52 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:46:52 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 24\1680\Final2h.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2h.00_00_0...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2h.00_00_0...')
+#4 [internal function]: controller\show->show('Final2h.00_00_0...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 14:46:54 Europe/Berlin] PHP Warning:  Undefined array key "Final2h.00_00_04_13.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:54 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\Final2h;l.00_00_04_13.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 14:46:55 Europe/Berlin] PHP Warning:  CurrentDirectory is not exists anymore, you were redirected to Root Dir in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 146
+[13-Dec-2021 14:46:55 Europe/Berlin] PHP Fatal error:  Uncaught Exception: folder 26\1820\Final2h;l.00_00_04_13.webp not found in Cache in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php:83
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(76): app\cacheById->findData()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php(33): app\cacheById->find()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(46): app\cacheById->__construct('Final2h;l.00_00...')
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\controllers\show.php(11): controller\show->findJson('Final2h;l.00_00...')
+#4 [internal function]: controller\show->show('Final2h;l.00_00...', '', '')
+#5 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(120): call_user_func_array(Array, Array)
+#6 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#7 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#8 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\src\cacheById.php on line 83
+[13-Dec-2021 15:05:34 Europe/Berlin] PHP Warning:  Undefined array key "auehaa.jpg-{7L8gOX1BO}-webp-1500.webp" in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 15:05:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[13-Dec-2021 15:05:34 Europe/Berlin] PHP Warning:  rename(,C:\Users\mtsikhitatrishvili\Desktop\image-service\storage\images\\\auehaaკი.jpg-{7L8gOX1BO}-webp-1500.webp): The parameter is incorrect (code: 87) in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\file-manager\src\fileManager.php on line 136
+[23-Dec-2021 09:08:04 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Method GET not allowed on this route in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477
+[23-Dec-2021 09:08:05 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No similar route registered in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php:477
+Stack trace:
+#0 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(562): maestroerror\Router->findMatch()
+#1 C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php(109): maestroerror\Router->checkCurrentAction()
+#2 C:\Users\mtsikhitatrishvili\Desktop\image-service\end.php(4): maestroerror\Router->run()
+#3 C:\Users\mtsikhitatrishvili\Desktop\image-service\index.php(9): require('C:\\Users\\mtsikh...')
+#4 {main}
+  thrown in C:\Users\mtsikhitatrishvili\Desktop\image-service\vendor\maestroerror\router\src\Router.php on line 477

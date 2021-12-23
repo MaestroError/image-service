@@ -18,11 +18,17 @@ class files {
         $this->json(200, $files->getTree());
     }
     public function remove($request, $name) {
-        if(isset($request->post['uri'])) {
-            $uri = $request->post['uri'];
+        $data = json_decode(file_get_contents('php://input'), true);
+        if(isset($data['uri'])) {
+            $uri = $data['uri'];
         } else {
-            $uri = "/";
+            $uri = "";
         }
+        // if(isset($request->post['uri'])) {
+        //     $uri = $request->post['uri'];
+        // } else {
+        //     $uri = "/";
+        // }
         $files = $this->openLocation($uri);
         $files->remove($name);
 
